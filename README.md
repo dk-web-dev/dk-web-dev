@@ -12,6 +12,7 @@
 - 💬 Ask me about **ReactJs , NextJs , typeScript , Node.js , MongoDB , and JavaScript**
 
 - 📫 How to reach me **gmit15cer61@gmail.com**
+- 📫 here my Fiverr account **https://www.fiverr.com/dk_web_dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
